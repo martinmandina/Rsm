@@ -14,7 +14,7 @@ the technologies used include
 ### PHP
 
 ## SETUP & INSTALLATION INSTRUCTIONS
-The project runs online/offline
+Runs online/offline
 ## CONTACT INFORMATION
 Martin Mandina
 Email: martinsmandina@gmail.com
