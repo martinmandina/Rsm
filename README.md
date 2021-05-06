@@ -1,7 +1,6 @@
 # RESUME
 ## AUTHOR
 Martin Mandina
-## GITHUB LIVE LINK
 
 ## DESCRIPTION
 This project details on setting up a basic portfolio.
